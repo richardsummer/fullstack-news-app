@@ -49,6 +49,7 @@ INSTALLED_APPS = [
     # 'allauth.socialaccount',
 
     # Local
+    'api.apps.ApiConfig',
     'accounts.apps.AccountsConfig',
     'frontend.apps.FrontendConfig',
 ]
